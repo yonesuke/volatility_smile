@@ -1,3 +1,4 @@
+jaxlib
 jax
 pandas
 matplotlib
